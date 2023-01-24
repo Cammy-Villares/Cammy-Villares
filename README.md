@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cammy-Villares
 - 👀 Estou interessado em dev. fullstack
-- 🌱 Estou estudando atualmente liguagem Java
+- 🌱 Estou estudando atualmente liguagem NodeJs
 - 📫 VocêS podem entrar em contato comigo pelo meu email camillav-reis@hotmail.com
 
 <!---
